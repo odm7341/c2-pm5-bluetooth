@@ -1,0 +1,27 @@
+{
+  "name": "c2-pm5-bluetooth",
+  "version": "1.0.0",
+  "description": "Package for the Concept 2 PM5 bluetooth using web bluetooth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odm7341/c2-pm5-bluetooth.git"
+  },
+  "keywords": [
+    "concept2",
+    "PM5",
+    "webBluetooth"
+  ],
+  "author": "Owen McClure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odm7341/c2-pm5-bluetooth/issues"
+  },
+  "homepage": "https://github.com/odm7341/c2-pm5-bluetooth#readme",
+  "devDependencies": {
+    "@types/web-bluetooth": "^0.0.20"
+  }
+}
